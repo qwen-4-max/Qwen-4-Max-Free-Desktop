@@ -1,0 +1,4 @@
+input_per_mtok: 1.50
+output_per_mtok: 4.50
+implicit_cache_hit: 0.075
+openrouter_id: qwen/qwen4-max

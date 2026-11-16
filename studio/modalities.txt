@@ -1,0 +1,2 @@
+Inputs: text, image, video
+APIs: OpenAI Chat Completions, Anthropic Messages, DashScope

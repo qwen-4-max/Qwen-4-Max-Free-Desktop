@@ -1,0 +1,7 @@
+{
+  "model_id": "qwen4-max",
+  "total_params": "2.4T",
+  "active_params_per_token": "71B",
+  "context_window": 1000000,
+  "max_output_thinking": 262144
+}
